@@ -1,0 +1,15 @@
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.csproj.AssemblyReference.cache
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.AssemblyInfoInputs.cache
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.AssemblyInfo.cs
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.csproj.CoreCompileInputs.cache
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\bin\Debug\net6.0\NivelamentoCSharpII.exe
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\bin\Debug\net6.0\NivelamentoCSharpII.deps.json
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\bin\Debug\net6.0\NivelamentoCSharpII.runtimeconfig.json
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\bin\Debug\net6.0\NivelamentoCSharpII.dll
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\bin\Debug\net6.0\NivelamentoCSharpII.pdb
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.dll
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\refint\NivelamentoCSharpII.dll
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.pdb
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\NivelamentoCSharpII.genruntimeconfig.cache
+C:\GIT\NivelamentoCSharp\NivelamentoCSharpII\obj\Debug\net6.0\ref\NivelamentoCSharpII.dll

@@ -1,0 +1,15 @@
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\bin\Debug\net6.0\EstoqueProdutosApp.exe
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\bin\Debug\net6.0\EstoqueProdutosApp.deps.json
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\bin\Debug\net6.0\EstoqueProdutosApp.runtimeconfig.json
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\bin\Debug\net6.0\EstoqueProdutosApp.dll
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\bin\Debug\net6.0\EstoqueProdutosApp.pdb
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.csproj.AssemblyReference.cache
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.AssemblyInfoInputs.cache
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.AssemblyInfo.cs
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.csproj.CoreCompileInputs.cache
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.dll
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\refint\EstoqueProdutosApp.dll
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.pdb
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\EstoqueProdutosApp.genruntimeconfig.cache
+C:\GIT\EstoqueProdutosApp\EstoqueProdutosApp\obj\Debug\net6.0\ref\EstoqueProdutosApp.dll
