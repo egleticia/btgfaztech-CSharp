@@ -1,0 +1,15 @@
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.exe
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.deps.json
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.runtimeconfig.json
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.dll
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.pdb
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.dll
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\refint\ExercicioInterface.dll
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.pdb
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\Letic\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\net6.0\ref\ExercicioInterface.dll

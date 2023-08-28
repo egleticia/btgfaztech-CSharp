@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\btgfaztech-CSharp\\EstoqueProdutosApp\\EstoqueProdutosApp\\EstoqueProdutosApp.csproj": {}
+    "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\btgfaztech-CSharp\\EstoqueProdutosApp\\EstoqueProdutosApp\\EstoqueProdutosApp.csproj": {
+    "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\btgfaztech-CSharp\\EstoqueProdutosApp\\EstoqueProdutosApp\\EstoqueProdutosApp.csproj",
-        "projectName": "EstoqueProdutosApp",
-        "projectPath": "C:\\GIT\\btgfaztech-CSharp\\EstoqueProdutosApp\\EstoqueProdutosApp\\EstoqueProdutosApp.csproj",
+        "projectUniqueName": "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj",
+        "projectName": "ExercicioInterface",
+        "projectPath": "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj",
         "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\btgfaztech-CSharp\\EstoqueProdutosApp\\EstoqueProdutosApp\\obj\\",
+        "outputPath": "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
