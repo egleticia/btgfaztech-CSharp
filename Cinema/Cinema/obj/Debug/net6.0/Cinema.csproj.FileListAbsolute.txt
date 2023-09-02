@@ -1,0 +1,15 @@
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\bin\Debug\net6.0\Cinema.exe
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\bin\Debug\net6.0\Cinema.dll
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\bin\Debug\net6.0\Cinema.pdb
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.dll
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.pdb
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\GIT\btgfaztech-CSharp\Cinema\Cinema\obj\Debug\net6.0\ref\Cinema.dll

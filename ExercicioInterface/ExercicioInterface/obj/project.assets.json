@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj",
+      "projectUniqueName": "C:\\GIT\\btgfaztech-CSharp\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj",
       "projectName": "ExercicioInterface",
-      "projectPath": "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj",
+      "projectPath": "C:\\GIT\\btgfaztech-CSharp\\ExercicioInterface\\ExercicioInterface\\ExercicioInterface.csproj",
       "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Letic\\OneDrive\\Área de Trabalho\\ExercicioInterface\\ExercicioInterface\\obj\\",
+      "outputPath": "C:\\GIT\\btgfaztech-CSharp\\ExercicioInterface\\ExercicioInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",

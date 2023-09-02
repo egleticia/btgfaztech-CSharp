@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharp\\NivelamentoCSharp.csproj",
+      "projectUniqueName": "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharp\\NivelamentoCSharp.csproj",
       "projectName": "NivelamentoCSharp",
-      "projectPath": "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharp\\NivelamentoCSharp.csproj",
+      "projectPath": "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharp\\NivelamentoCSharp.csproj",
       "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharp\\obj\\",
+      "outputPath": "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj": {}
+    "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj": {
+    "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj",
+        "projectUniqueName": "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj",
         "projectName": "NivelamentoCSharpVI",
-        "projectPath": "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj",
+        "projectPath": "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharpVI\\NivelamentoCSharpVI.csproj",
         "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\NivelamentoCSharp\\NivelamentoCSharpVI\\obj\\",
+        "outputPath": "C:\\GIT\\btgfaztech-CSharp\\NivelamentoCSharp\\NivelamentoCSharpVI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",

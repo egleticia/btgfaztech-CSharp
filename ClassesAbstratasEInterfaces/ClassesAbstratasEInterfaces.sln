@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAbstratasEInterfaces", "ClassesAbstratasEInterfaces\ClassesAbstratasEInterfaces.csproj", "{EC85F44B-2E34-441E-A2B5-A6D9B42F3830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1EDCD24E-B972-405E-A66C-1B7D920E08C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC85F44B-2E34-441E-A2B5-A6D9B42F3830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC85F44B-2E34-441E-A2B5-A6D9B42F3830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC85F44B-2E34-441E-A2B5-A6D9B42F3830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC85F44B-2E34-441E-A2B5-A6D9B42F3830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDCD24E-B972-405E-A66C-1B7D920E08C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDCD24E-B972-405E-A66C-1B7D920E08C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDCD24E-B972-405E-A66C-1B7D920E08C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDCD24E-B972-405E-A66C-1B7D920E08C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A178340E-B06C-4F5A-8213-B45D2E3F7EC7}
+	EndGlobalSection
+EndGlobal
