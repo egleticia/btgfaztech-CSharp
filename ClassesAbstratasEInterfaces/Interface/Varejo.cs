@@ -8,12 +8,12 @@ namespace Interface
 {
     public class Varejo : Empresa, IEmpresa
     {
-        //private readonly EnviarNotificacaoWhatsApp
+        private readonly IEnviarNotificacao _enviarNotificacao;
 
-        //public Varejo()
-        //{
-
-        //}
+        public Varejo(IEnviarNotificacao enviarNotificacao)
+        {
+            _enviarNotificacao = enviarNotificacao;
+        }
 
         public void ImprimirInformacoes()
         {
