@@ -8,6 +8,13 @@ namespace Interface
 {
     public class Varejo : Empresa, IEmpresa
     {
+        //private readonly EnviarNotificacaoWhatsApp
+
+        //public Varejo()
+        //{
+
+        //}
+
         public void ImprimirInformacoes()
         {
             StringBuilder empresa = new StringBuilder();
